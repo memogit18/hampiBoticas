@@ -1,0 +1,51 @@
+
+
+.top{
+    width: 60%;
+    display: block;
+    margin: auto;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.online{
+    padding-left: 30px;
+}
+
+.diferenciales{
+    background: #ffff;
+    padding: 30px;
+}
+
+.principal{
+    background: rgb(145, 231, 227);
+    padding: 2px;
+}
+
+p{
+    text-align: center;
+}
+
+strong{
+    color: brown;
+}
+
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 10%;
+}
+
+.imagendif{
+    width: 20%;
+}
+
